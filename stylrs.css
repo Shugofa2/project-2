@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+}
+#p1{
+    color: red;
+    background-color: lightblue;
+    font-size: 2em;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+.p3{
+    color: yellow;
+}
+.text{
+    background-color: orange;
+    border: 100px solid black;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    align-items: center;
+
+}
